@@ -1,0 +1,518 @@
+{"date":"2023-02-10T03:22:11.7496730+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:22:11.8862101+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:22:11.8893705+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:22:11.8912108+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:22:11.8928741+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:22:11.8944173+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:22:18.8885309+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:22:18.8980831+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:22:18.9004358+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:22:18.9064052+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:22:18.9080407+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:22:18.9098139+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:22:19.2131883+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:22:19.2162249+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:22:19.2278857+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:22:19.2448870+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:22:19.2519442+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:22:19.2545888+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:22:19.5624104+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:22:19.5644506+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:22:19.5663813+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:22:19.5726083+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:22:19.5749930+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:22:19.5768245+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:22:21.1620599+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application is shutting down..."}
+{"date":"2023-02-10T03:22:21.1628688+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting stopping"}
+{"date":"2023-02-10T03:22:21.1711733+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting stopped"}
+{"date":"2023-02-10T03:23:57.5158640+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:23:57.6496296+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:23:57.6573743+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:23:57.6593252+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:23:57.6607298+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:23:57.6620802+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:24:04.8303564+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:24:04.8513741+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:24:04.8561748+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:24:04.8724591+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:24:04.8923657+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:24:04.9087606+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:24:05.5303612+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:24:05.5329284+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:24:05.5350485+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:24:05.5632825+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:24:05.5685606+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:24:05.5712665+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:24:05.7712981+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:24:05.7732412+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:24:05.7754057+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:24:05.7840944+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:24:05.7953776+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:24:05.7977042+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:24:05.9061256+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:24:05.9083245+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:24:05.9127168+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:24:05.9147906+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:24:05.9164851+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:24:05.9179579+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:24:06.0685734+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:24:06.0716998+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:24:06.0738559+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:24:06.0862199+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:24:06.0944770+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:24:06.1093357+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:25:56.0876973+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:25:56.1786307+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:25:56.1821177+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:25:56.1839491+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:25:56.1856026+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:25:56.1877213+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:26:00.0716280+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:26:00.1385674+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:26:00.1465530+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:26:00.1491060+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:26:00.1508868+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:26:00.1579760+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:26:00.8733916+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:26:00.8756499+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:26:00.8784121+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:26:00.9268595+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:26:00.9425571+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:26:00.9537707+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:26:01.1794798+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:26:01.1828279+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:26:01.1887952+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:26:01.2071497+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:26:01.2113258+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:26:01.2126728+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:26:01.4275899+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:26:01.4333908+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:26:01.4355484+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:26:01.4373830+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:26:01.4386630+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:26:01.4399681+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:35:33.4834195+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:35:33.6236707+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:35:33.6314970+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:35:33.6686404+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:35:33.7056358+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:35:33.7167214+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:35:45.6929484+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"An unhandled exception has occurred while executing the request.","exception":"System.ArgumentNullException: Value cannot be null. (Parameter 'logger')\r\n   at System.ThrowHelper.Throw(String paramName)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)\r\n   at Program.<>c.<<Main>b__1_0>d.MoveNext() in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Program.cs:line 41\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)"}
+{"date":"2023-02-10T03:35:46.6878678+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"An unhandled exception has occurred while executing the request.","exception":"System.ArgumentNullException: Value cannot be null. (Parameter 'logger')\r\n   at System.ThrowHelper.Throw(String paramName)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)\r\n   at Program.<>c.<<Main>b__1_0>d.MoveNext() in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Program.cs:line 41\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)"}
+{"date":"2023-02-10T03:35:46.9937813+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"An unhandled exception has occurred while executing the request.","exception":"System.ArgumentNullException: Value cannot be null. (Parameter 'logger')\r\n   at System.ThrowHelper.Throw(String paramName)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)\r\n   at Program.<>c.<<Main>b__1_0>d.MoveNext() in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Program.cs:line 41\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)"}
+{"date":"2023-02-10T03:36:00.5752914+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:36:00.7203272+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:36:00.7237206+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:36:00.7254980+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:36:00.7267353+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:36:00.7280034+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:36:04.5926595+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"An unhandled exception has occurred while executing the request.","exception":"System.ArgumentNullException: Value cannot be null. (Parameter 'logger')\r\n   at System.ThrowHelper.Throw(String paramName)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)\r\n   at Program.<>c.<<Main>b__1_0>d.MoveNext() in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Program.cs:line 41\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)"}
+{"date":"2023-02-10T03:36:38.9128219+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:36:39.0280210+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:36:39.0318025+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:36:39.0339362+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:36:39.0353182+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:36:39.0371299+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:36:46.9888943+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"An unhandled exception has occurred while executing the request.","exception":"System.ArgumentNullException: Value cannot be null. (Parameter 'logger')\r\n   at System.ThrowHelper.Throw(String paramName)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)\r\n   at Program.<>c.<<Main>b__1_0>d.MoveNext() in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Program.cs:line 41\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)"}
+{"date":"2023-02-10T03:37:17.0334576+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:37:17.1464140+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:37:17.1490911+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:37:17.1504955+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:37:17.1514860+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:37:17.1524276+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:37:25.7985987+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"An unhandled exception has occurred while executing the request.","exception":"System.ArgumentNullException: Value cannot be null. (Parameter 'logger')\r\n   at System.ThrowHelper.Throw(String paramName)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)\r\n   at Program.<>c.<<Main>b__3_0>d.MoveNext() in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Program.cs:line 41\r\n--- End of stack trace from previous location ---\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)"}
+{"date":"2023-02-10T03:37:56.0784259+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:37:56.1943768+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:37:56.1970567+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:37:56.1984837+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:37:56.1994203+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:37:56.2006084+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:38:03.4073581+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:38:03.4124438+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:38:03.4148219+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:38:03.4337438+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:38:03.4361910+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:38:03.4446058+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:38:04.2935585+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:38:04.2964979+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:38:04.3040947+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:38:04.3197079+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:38:04.3360080+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:38:04.3609558+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:44:08.2785199+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:44:08.4040685+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:44:08.4077808+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:44:08.4102452+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:44:08.4117702+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:44:08.4131828+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:44:31.6534791+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:44:31.7764659+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:44:31.7794736+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:44:31.7947839+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:44:31.7963089+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:44:31.7981918+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:44:43.9079449+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:44:43.9700227+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:44:43.9743258+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:44:44.0181700+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:44:44.0285119+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:44:44.0809738+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:44:44.0841636+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:44:44.0931019+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:44:44.0954775+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:44:44.1107550+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:44:44.1219698+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:44:44.1240336+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:44:44.1256155+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:48:55.9763427+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:48:56.0953322+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:48:56.0983959+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:48:56.1002573+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:48:56.1016235+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:48:56.1030498+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:49:02.7777128+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:49:02.8395801+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:49:02.8435580+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:49:02.8585441+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:49:02.8634641+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:49:02.8651775+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:49:02.8664972+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:49:02.8692978+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:49:02.8749991+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:49:02.8766176+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:49:02.8778062+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:49:02.8788235+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:49:02.8907794+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:49:04.2738981+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:49:04.2975857+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:49:04.3155707+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:49:04.3263728+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:49:04.3442712+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:49:04.3555989+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:49:04.3813907+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:49:04.4032788+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:49:04.4089307+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:49:04.4118378+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:49:04.4179836+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:49:04.4203508+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:49:04.4350727+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:49:54.8880684+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:49:54.9933170+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:49:54.9957942+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:49:55.0055547+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:49:55.0069023+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:49:55.0085797+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:49:59.2169502+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:49:59.2881289+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:49:59.2924443+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:49:59.2953620+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:49:59.2974070+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:49:59.3667141+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:49:59.4213994+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:49:59.4290337+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:49:59.4327720+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:49:59.4611289+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:49:59.4770989+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:49:59.5196950+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:49:59.5225652+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:50:00.7732679+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:50:00.7975395+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:50:00.8003316+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:50:00.8079366+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:50:00.8099609+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:50:00.8149866+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:50:00.8188997+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:50:00.8213811+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:50:00.8273544+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:50:00.8660046+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:50:00.8737970+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:50:00.8900552+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:50:00.8962673+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:50:19.8970836+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:50:19.9059792+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:50:19.9265586+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:50:19.9349803+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:50:19.9528879+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:50:19.9552045+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:50:19.9610079+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:50:19.9641913+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:50:19.9661897+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:50:19.9712420+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:50:19.9738737+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:50:19.9761430+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:50:19.9790640+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:50:20.4171155+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:50:20.4224301+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:50:20.4386839+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:50:20.4419885+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:50:20.4439498+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:50:20.4521599+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:50:20.4541081+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:50:20.4593564+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:50:20.4739607+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:50:20.4756155+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:50:20.4769295+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:50:20.4795888+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:50:20.4845848+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:17.3602880+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:51:17.4604301+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:51:17.4618627+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:51:17.4626444+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:51:17.4719448+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:51:17.4728555+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:51:22.4450348+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:51:22.4704079+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:22.4727307+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:22.4734362+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:22.4739773+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:22.4744696+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:22.4858364+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:22.4876387+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:22.4910785+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:22.4924556+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:22.4935927+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:22.4955750+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:22.4962389+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:23.3553186+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:51:23.3572331+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:23.3979478+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:23.4039767+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:23.4075337+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:23.4087531+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:23.4099751+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:23.4159920+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:23.4181404+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:23.4190483+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:23.4197797+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:23.4394423+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:23.4420795+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:23.8385377+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:51:23.8611389+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:23.8642771+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:23.8689031+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:23.8725677+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:23.8747045+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:23.9070766+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:23.9081574+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:23.9088747+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:23.9098335+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:23.9105341+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:23.9128948+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:23.9140747+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:24.0089686+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:51:24.0220626+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:24.0634578+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:24.0643468+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:24.0649889+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:24.0665587+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:24.0679335+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:24.0714125+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:24.0729092+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:24.0742389+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:24.0757005+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:24.0968229+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:24.1063211+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:24.1726303+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:51:24.1747187+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:24.1756775+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:24.1781365+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:24.1806929+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:24.1813158+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:24.1898853+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:51:24.1939721+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:51:24.2017721+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:51:24.2127898+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:51:24.2153454+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:51:24.2168973+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:51:24.2176075+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:07.8274879+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:52:07.9044661+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:52:07.9128808+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:52:07.9138947+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:52:07.9144702+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:52:07.9150587+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:52:14.9138172+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:52:14.9960622+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:15.0139175+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:15.0225571+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:15.0528403+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:15.0586717+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:15.0603770+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:15.0624129+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:15.0632265+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:15.0676097+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:15.0700640+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:15.0712430+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:15.0721360+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:15.7500345+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:52:15.7515501+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:15.7526163+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:15.7538885+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:15.7548159+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:15.7604517+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:15.7680831+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:15.7736109+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:15.7929810+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:15.8052327+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:15.8127318+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:15.8200612+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:15.8326868+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:15.9368626+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:52:15.9383227+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:15.9393793+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:15.9495121+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:15.9667969+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:15.9684277+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:15.9693636+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:15.9702499+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:15.9712624+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:15.9718752+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:15.9724138+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:15.9729340+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:15.9834505+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:46.2622888+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:52:46.3701374+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:52:46.3738057+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:52:46.3755997+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:52:46.3777729+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:52:46.3792093+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:52:50.8990539+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:52:51.0102769+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:51.0298620+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:51.0437803+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:51.0580226+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:51.0702950+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:51.0727035+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:51.0762454+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:51.0821098+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:51.0931615+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:51.0945935+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:51.0957267+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:51.0965767+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:51.7495213+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:52:51.7545190+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:51.7706820+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:51.7758157+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:51.7991010+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:51.8252711+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:51.8335822+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:51.8467932+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:51.8545553+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:51.8652110+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:51.8729444+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:51.8745576+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:51.8923459+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:52.0387169+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:52:52.0425877+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:52.0473874+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:52.0503842+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:52.0551932+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:52.0578383+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:52.0592749+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:52:52.0603769+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:52:52.0771374+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:52:52.0936590+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:52:52.0954693+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:52:52.0967230+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:52:52.1015147+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:53:59.3578181+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:53:59.4622843+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:53:59.4648995+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:53:59.4664341+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:53:59.4761217+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:53:59.4783070+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:54:15.4823248+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:54:15.5645058+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:54:15.5848494+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:54:15.6013164+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:54:15.6158329+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:54:15.6211256+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:54:15.6396120+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:54:15.6475681+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:54:15.6496410+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:54:15.6522183+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:54:15.6550080+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:54:15.6565251+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:54:15.6576152+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:54:16.6309352+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:54:16.6801442+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:54:16.7609837+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:54:16.7815356+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:54:16.7950926+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:54:16.8008721+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:54:16.8035352+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:54:16.8064300+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:54:16.8320196+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:54:16.8469669+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:54:16.8497820+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:54:16.9170490+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:54:16.9322714+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:54:59.2949785+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:54:59.4181716+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:54:59.4222010+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:54:59.4242222+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:54:59.4255421+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:54:59.4269642+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:55:10.8102083+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:55:10.8469768+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:55:10.8556171+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:55:10.8594700+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:55:10.8675341+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:55:10.8711132+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:55:10.8811186+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:55:10.8921182+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:55:10.8998408+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:55:10.9186528+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:55:10.9259830+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:55:10.9335175+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:55:10.9358192+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:56:16.0746642+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:56:16.1779035+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:56:16.1807071+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:56:16.1823191+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:56:16.1835418+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:56:16.1919646+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:56:29.7039422+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:56:29.8067320+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:56:29.8090216+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:56:29.8101404+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:56:29.8111935+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:56:29.8118799+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:56:30.2576055+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:56:30.7982745+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:56:30.8781643+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"An unhandled exception has occurred while executing the request.","exception":"System.InvalidOperationException: StatusCode cannot be set because the response has already started.\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.RespondWithSwaggerJson(HttpResponse response, OpenApiDocument swagger)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Log4net.API.Configurations.CustomMiddleware.InvokeAsync(HttpContext context) in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Configurations\\CustomMiddleware.cs:line 28\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)"}
+{"date":"2023-02-10T03:56:30.8908959+04:00","level":"WARN","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"The response has already started, the error page middleware will not be executed."}
+{"date":"2023-02-10T03:56:30.9289459+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Server.Kestrel","message":"Connection id \"0HMOAV51R5H7J\", Request id \"0HMOAV51R5H7J:00000003\": An unhandled exception was thrown by the application.","exception":"System.InvalidOperationException: StatusCode cannot be set because the response has already started.\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.RespondWithSwaggerJson(HttpResponse response, OpenApiDocument swagger)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Log4net.API.Configurations.CustomMiddleware.InvokeAsync(HttpContext context) in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Configurations\\CustomMiddleware.cs:line 28\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)"}
+{"date":"2023-02-10T03:56:45.3969701+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application is shutting down..."}
+{"date":"2023-02-10T03:56:45.3976778+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting stopping"}
+{"date":"2023-02-10T03:56:45.4118435+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting stopped"}
+{"date":"2023-02-10T03:57:05.2845102+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:57:05.3779580+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:57:05.3802847+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:57:05.3816561+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:57:05.3826851+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:57:05.3834421+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:57:05.8615130+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:57:06.3340862+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:57:06.3812664+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"An unhandled exception has occurred while executing the request.","exception":"System.InvalidOperationException: StatusCode cannot be set because the response has already started.\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.RespondWithSwaggerJson(HttpResponse response, OpenApiDocument swagger)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Log4net.API.Configurations.CustomMiddleware.InvokeAsync(HttpContext context) in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Configurations\\CustomMiddleware.cs:line 28\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)"}
+{"date":"2023-02-10T03:57:06.3878154+04:00","level":"WARN","logger":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","message":"The response has already started, the error page middleware will not be executed."}
+{"date":"2023-02-10T03:57:06.3959577+04:00","level":"ERROR","logger":"Microsoft.AspNetCore.Server.Kestrel","message":"Connection id \"0HMOAV5CELNJT\", Request id \"0HMOAV5CELNJT:00000004\": An unhandled exception was thrown by the application.","exception":"System.InvalidOperationException: StatusCode cannot be set because the response has already started.\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.RespondWithSwaggerJson(HttpResponse response, OpenApiDocument swagger)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Log4net.API.Configurations.CustomMiddleware.InvokeAsync(HttpContext context) in C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API\\Configurations\\CustomMiddleware.cs:line 28\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)\r\n   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)"}
+{"date":"2023-02-10T03:57:25.0742711+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting starting"}
+{"date":"2023-02-10T03:57:25.2139050+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Now listening on: http://localhost:5113"}
+{"date":"2023-02-10T03:57:25.2169755+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Application started. Press Ctrl+C to shut down."}
+{"date":"2023-02-10T03:57:25.2183745+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Hosting environment: Development"}
+{"date":"2023-02-10T03:57:25.2195050+04:00","level":"INFO","logger":"Microsoft.Hosting.Lifetime","message":"Content root path: C:\\Users\\user\\Desktop\\ADO.NETTask\\Log4net.API\\Log4net.API"}
+{"date":"2023-02-10T03:57:25.2204557+04:00","level":"DEBUG","logger":"Microsoft.Extensions.Hosting.Internal.Host","message":"Hosting started"}
+{"date":"2023-02-10T03:57:32.0381907+04:00","level":"INFO","logger":"Log4net.API.Configurations.CustomMiddleware","message":"Log message from Information method for user 192.168.100.181"}
+{"date":"2023-02-10T03:57:32.0720690+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:57:32.0743652+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:57:32.0803402+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:57:32.0871662+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:57:32.0890455+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:57:32.0904046+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}
+{"date":"2023-02-10T03:57:32.0958965+04:00","level":"TRACE","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Trace method"}
+{"date":"2023-02-10T03:57:32.0985624+04:00","level":"DEBUG","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Debug method"}
+{"date":"2023-02-10T03:57:32.0998548+04:00","level":"INFO","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Information method"}
+{"date":"2023-02-10T03:57:32.1009742+04:00","level":"WARN","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Warning method"}
+{"date":"2023-02-10T03:57:32.1020235+04:00","level":"ERROR","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Error method"}
+{"date":"2023-02-10T03:57:32.1112005+04:00","level":"FATAL","logger":"Log4net.API.Controllers.DemoController","message":"Log message from Critical method"}

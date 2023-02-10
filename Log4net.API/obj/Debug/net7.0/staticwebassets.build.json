@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ucMHtBIIrkYFVqHSBnkwDMOvhw8W7GAzZXG+fhvzUMQ=",
+  "Source": "Log4net.API",
+  "BasePath": "_content/Log4net.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
