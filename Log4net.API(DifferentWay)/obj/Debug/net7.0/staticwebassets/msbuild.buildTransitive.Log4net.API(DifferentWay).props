@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Log4net.API(DifferentWay).props" />
-</Project>
